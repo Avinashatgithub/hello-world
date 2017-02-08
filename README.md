@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi All,
+  It's Avinash here, I like java programming.
